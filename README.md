@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# I major in Information and Conputing Science, currently planning to move to Computer Science and Technology.
 <!--
 **LaPlumaA108/LaPlumaA108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
